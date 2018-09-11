@@ -1,0 +1,19 @@
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100rpx;
+  align-items: center;
+  border-top: 1rpx solid #f5f5f5;
+  border-bottom:1rpx solid #f5f5f5;
+}
+
+.episode{
+  margin-left: 20rpx;
+  margin-top: 4rpx;
+}
+
+.like {
+  margin-top: 6rpx;
+}
